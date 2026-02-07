@@ -1,0 +1,7 @@
+{
+  "name": "MoodShot",
+  "description": "A private, emotion-driven social app for sharing snapshots of your current mood without the noise of likes or comments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
